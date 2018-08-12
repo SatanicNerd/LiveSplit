@@ -4475,4 +4475,14 @@
     <Type>Script</Type>
     <Description>Auto Splitting, Start, and Reset are available. (By Avasam)</Description>
   </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Omensight 1.0.3</Game>
+		</Games>
+		<URLs>
+			<URL>https://github.com/SatanicNerd/Omensight_Glitchless/blob/master/Omensight.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>Glitchless Any%, Splits on every new day, on every Voden fight and on the Ludo fight with Indrik (optional)</Description>
+	</AutoSplitter>
 </AutoSplitters>
